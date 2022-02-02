@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "964878183075",
+    "project_id": "paikart-e01ad",
+    "storage_bucket": "paikart-e01ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:964878183075:android:fa989dc06fa286ac81ad16",
+        "android_client_info": {
+          "package_name": "com.example.paikart.paikart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "964878183075-oce28ecj0gm03k0phnselar0790gdemn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.paikart.paikart",
+            "certificate_hash": "3983efcad482182b1c3d56021572334ae0abfadc"
+          }
+        },
+        {
+          "client_id": "964878183075-36usuvua1na3bu33sdt7sfnft7jb9el0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQkghuIbbFN9awWDj02FRwJIEfXn5EFXw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "964878183075-36usuvua1na3bu33sdt7sfnft7jb9el0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
