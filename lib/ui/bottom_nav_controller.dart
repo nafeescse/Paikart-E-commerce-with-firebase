@@ -43,17 +43,17 @@ class _BottomNavControllerState extends State<BottomNavController> {
         items: [
           BottomNavigationBarItem(
             icon: Icon(Icons.home),
-            title: Text("Home"),
+            label: "Home",
           ),
           BottomNavigationBarItem(
-              icon: Icon(Icons.favorite_outline), title: Text("Favourite")),
+              icon: Icon(Icons.favorite_outline), label: "Favourite"),
           BottomNavigationBarItem(
             icon: Icon(Icons.add_shopping_cart),
-            title: Text("Cart"),
+            label: "Cart",
           ),
           BottomNavigationBarItem(
             icon: Icon(Icons.person),
-            title: Text("Person"),
+            label: "Person",
           ),
         ],
         onTap: (index) {
